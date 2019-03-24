@@ -5,7 +5,7 @@ import java.util.*;
 public class EchoUDPClient {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String line = null;
+        String line;
         try{
             DatagramSocket soc = new DatagramSocket();
             while((line = sc.nextLine()) != null){

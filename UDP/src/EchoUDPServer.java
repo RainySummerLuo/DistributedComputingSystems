@@ -2,7 +2,7 @@ import java.net.*;
 
 public class EchoUDPServer {
     public static void main(String[] args) {
-        DatagramSocket server = null;
+        DatagramSocket server;
         DatagramPacket receivePacket, sendPacket;
         try {
             server = new DatagramSocket(7777);
@@ -11,7 +11,7 @@ public class EchoUDPServer {
             while(true){
                 receivePacket = 
                     new DatagramPacket(buffer, buffer.length);
-                    server.receive(receivePacket); // String will be stored in buffer of receivPacket
+                    server.receive(receivePacket); // String will be stored in buffer of receivePacket
                     String msg = new String(buffer, 0, receivePacket.getLength());
                 if(msg.equals("bye")) break;
                 System.out.println("Message from Client : " + msg);

@@ -19,6 +19,6 @@ public class TCPServer {
                 pw.println("Message OK!");
                 pw.flush();
             }
-        } catch (IOException e) {}
+        } catch (IOException ignored) {}
     }
 }

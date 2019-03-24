@@ -6,8 +6,8 @@ public class TCPClient {
         InetAddress ia = null;
         try {
             ia = InetAddress.getByName("localhost");
-        } catch (UnknownHostException e) {}
-        Socket soc = null;
+        } catch (UnknownHostException ignored) {}
+        Socket soc;
         try {
             soc = new Socket(ia, 12345);
             OutputStreamWriter osw = new OutputStreamWriter(soc.getOutputStream());
@@ -19,6 +19,6 @@ public class TCPClient {
             BufferedReader br = new BufferedReader(isr, 512);
             String data = br.readLine();
             System.out.println("Rely from Server = " + data);
-        } catch (Exception e) {}
+        } catch (Exception ignored) {}
     }
 }
