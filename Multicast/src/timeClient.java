@@ -2,7 +2,7 @@ import java.util.*;
 import java.rmi.*;
 import java.net.*;
 
-public class timeClient implements timeServer {
+public class timeClient {
 	public static void main(String args[]) {
 		if (args.length == 0 || !args[0].startsWith("rmi:")) {
 			System.err.println("Usage: ...");

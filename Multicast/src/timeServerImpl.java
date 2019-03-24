@@ -4,13 +4,13 @@ import java.rmi.registry.*;
 import java.rmi.server.UnicastRemoteObject;
 
 public class timeServerImpl extends UnicastRemoteObject implements timeServer {
-	public timeServerImpl ( ) throws RemoteException {
+	private timeServerImpl() throws RemoteException {
 		super( );
 	}
 
-	public long getTime() throws RemoteException {
+	public long getTime() {
 		return    System.currentTimeMillis(); //using java.util.Date class
-	}					//but need to convert it to long
+	}	//but need to convert it to long
 
 	public static void main(String[] args) {
 		try {
