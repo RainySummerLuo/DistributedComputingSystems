@@ -1,7 +1,7 @@
 # DistributedComputingSystems
 
 ## Compile and Execute Java Codes in CMD
-```cmd
+```bash
 > javac *.java
 > java example
 ```
