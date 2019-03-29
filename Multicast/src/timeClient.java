@@ -22,6 +22,8 @@ public class timeClient {
 		}
 		Date date = new Date(System.currentTimeMillis());
 		System.out.println(date);
+		Date serverDate = new Date(lt);
 		System.out.println(lt);
+		System.out.println(serverDate);
 	}
 }

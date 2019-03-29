@@ -1,6 +1,5 @@
-import java.rmi.Remote;
-import java.rmi.RemoteException;
-
+import java.rmi.*;
+import java.util.Date;
 public interface timeServer extends Remote {
-	long getTime() throws RemoteException;
+public  long  getTime() throws RemoteException;
 }
