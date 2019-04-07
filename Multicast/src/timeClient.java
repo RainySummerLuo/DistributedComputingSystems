@@ -22,8 +22,7 @@ public class timeClient {
 		}
 		Date date = new Date(System.currentTimeMillis());
 		System.out.println(date);
-		Date serverDate = new Date(lt);
-		System.out.println(lt);
-		System.out.println(serverDate);
+        System.out.println(lt);
+        String date = new java.text.SimpleDateFormat("dd/MM/yyyy HH:mm:ss").format(new java.util.Date(Unix timestamp * 1000))
 	}
 }
