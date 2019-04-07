@@ -22,7 +22,7 @@
 
 ## Topic 4
 - [Inter-Process Communication](./Lecture%20Notes/dist4-process-communication.ppt)
-- [4-1 multicast comm.]((./Lecture%20Notes/dist4-1.ppt)
+- [4-1 multicast comm.](./Lecture%20Notes/dist4-1.ppt)
 - [UDP](./sample/udp/)
 - [TCP](./sample/tcp/)
 
