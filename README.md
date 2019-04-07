@@ -12,7 +12,7 @@
 
 **Friday classes at 8:00 - 9:50 moved to T4-302.**
 
-[IntroductionFile](./Lecture Notes/dist1.ppt)
+[IntroductionFile](./Lecture%20Notes/dist1.ppt)
 
 ## Topic 2
 
