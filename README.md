@@ -6,128 +6,30 @@
 > java example
 ```
 
-## Assignment 1
-
 ## Topic 1
-
-**Friday classes at 8:00 - 9:50 moved to T4-302.**
-
-[IntroductionFile](./Lecture%20Notes/dist1.ppt)
+- [Introduction](./Lecture%20Notes/dist1.ppt)
 
 ## Topic 2
+- [System Models](./Lecture%20Notes/dist2.ppt)
+- [Appendix : Case of EFJohnson Technologies Co.](./Lecture%20Notes/EFJohnsonTechnologies.pdf)
+- [Appendix : Cisco: Data Center Multi-Tier Model Design](./Lecture%20Notes/Cisco_DCInfra2.pdf)
 
-  
+## Topic 3
+- [Networking and Interworking in DS](./Lecture%20Notes/dist3.ppt)
 
-  - 
+## Assignment 1
+- [Assignment 1](./Assignment/Assignment%201/)
 
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/powerpoint-24)System ModelFile](https://ispace.uic.edu.hk/mod/resource/view.php?id=91230)
+## Topic 4
+- [Inter-Process Communication](./Lecture%20Notes/dist4-process-communication.ppt)
+- [4-1 multicast comm.]((./Lecture%20Notes/dist4-1.ppt)
+- [UDP](./sample/udp/)
+- [TCP](./sample/tcp/)
 
-  - 
+## Topic 5
+- [Remote Object Invocation](./Lecture%20Notes/dist5-remoteInvocation.ppt)
+- [rmi sample TimeServer](./sample/rmi/)
 
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/pdf-24)Appendix : Case of EFJohnson Technologies Co.URL](https://ispace.uic.edu.hk/mod/url/view.php?id=91231)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/powerpoint-24)process crash case in DS Env.File](https://ispace.uic.edu.hk/mod/resource/view.php?id=91232)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/url/1541759045/icon)Data Center Multi-Tier Model DesignURL](https://ispace.uic.edu.hk/mod/url/view.php?id=95550)
-
-- ![img](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/spacer)
-
-  ![img](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/spacer)
-
-  ### Topic 3
-
-  
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/powerpoint-24)(Updated)Networking and Interworking in DS File](https://ispace.uic.edu.hk/mod/resource/view.php?id=91233)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/avi-24)Animaiton : OSI 7 layers File](https://ispace.uic.edu.hk/mod/resource/view.php?id=91234)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/powerpoint-24)Assignment DescriptionFile](https://ispace.uic.edu.hk/mod/resource/view.php?id=91235)
-
-    Due date : 8:00 am Mar. 29, 2019
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/assign/1541759045/icon)Assignment Upload](https://ispace.uic.edu.hk/mod/assign/view.php?id=91236)
-
-- ![img](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/spacer)
-
-  ![img](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/spacer)
-
-  ### Topic 4
-
-  
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/powerpoint-24)Inter-Process CommunicationFile](https://ispace.uic.edu.hk/mod/resource/view.php?id=91238)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/archive-24)Uni-MultiCase(Process Communication Sample)File](https://ispace.uic.edu.hk/mod/resource/view.php?id=91239)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/powerpoint-24)4-1 multicast comm.File](https://ispace.uic.edu.hk/mod/resource/view.php?id=99525)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/archive-24)Echo-UDPFile](https://ispace.uic.edu.hk/mod/resource/view.php?id=101068)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/sourcecode-24)rmi - timeClient codeFile](https://ispace.uic.edu.hk/mod/resource/view.php?id=103398)
-
-- ![img](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/spacer)
-
-  ![img](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/spacer)
-
-  ### Topic 5
-
-  
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/powerpoint-24)Remote Object InvocationFile](https://ispace.uic.edu.hk/mod/resource/view.php?id=91242)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/archive-24)rmi sample TimeServerFile](https://ispace.uic.edu.hk/mod/resource/view.php?id=91243)
-
-- ![img](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/spacer)
-
-  ![img](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/spacer)
-
-  ### Topic 6
-
-  
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/powerpoint-24)Remote Object Invocation File Part II -CORBA(updated)](https://ispace.uic.edu.hk/mod/resource/view.php?id=91246)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/archive-24)rmi-iiop sampleFile](https://ispace.uic.edu.hk/mod/resource/view.php?id=91247)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/core/1541759045/f/mpeg-24)Java is EverywhereFile](https://ispace.uic.edu.hk/mod/resource/view.php?id=91248)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/url/1541759045/icon)Set up CORBA in Eclipse (Chinese)URL](https://ispace.uic.edu.hk/mod/url/view.php?id=100514)
-
-  - 
-
-    [![ ](https://ispace.uic.edu.hk/theme/image.php/clean/url/1541759045/icon)Java 9 and IIOPURL](https://ispace.uic.edu.hk/mod/url/view.php?id=101059)
+## Topic 6
+- [Remote Object Invocation File Part II -CORBA](./Lecture%20Notes/dist6-corba.ppt)
+- [rmi-iiop sample](./sample/corba/)
