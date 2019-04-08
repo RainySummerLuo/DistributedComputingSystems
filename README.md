@@ -7,7 +7,7 @@
 ```
 
 ## Topic 1
-- [Introduction](./Lecture%20Notes/dist1.ppt)
+- [Introduction](./Lecture%20Notes/dist1.pdf)
 
 ## Topic 2
 - [System Models](./Lecture%20Notes/dist2.ppt)
