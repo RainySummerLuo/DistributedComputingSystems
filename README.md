@@ -35,3 +35,6 @@
 ## Topic 6
 - [Remote Object Invocation File Part II -CORBA](./Lecture%20Notes/dist6-corba.ppt)
 - [rmi-iiop sample](./sample/corba/)
+
+## Project
+- [Project Repo](https://github.com/RainySummerLuo/DistributedComputingSystems_Project)
